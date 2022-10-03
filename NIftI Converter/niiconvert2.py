@@ -58,5 +58,3 @@ def nifti2dicom_mfiles(nifti_dir, out_dir=''):
         out_path = os.path.join(out_dir, file)
         os.mkdir(out_path)
         nifti2dicom_1file(in_path, out_path)
-
-nifti_dir=""
