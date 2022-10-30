@@ -9,26 +9,13 @@
 <br>
 <div>
   <h3>Dataset</h3>
-  <p>The dataset is extracted from <a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?datasetId=1582403">Kaggle</a> (click to follow). The dataset currently has 12 attributes: (I-independent, D-dependent)</p>
-  <ul>
-    <li>Age (I)</li>
-    <li>Sex (I)</li>
-    <li>Chest Pain Type (I)</li>
-    <li>Resting Blood Pressure (I)</li>
-    <li>Cholestrol (I)</li>
-    <li>Fasting Blood Sugar (I)</li>
-    <li>Resting ECG (I)</li>
-    <li>Max Heart Rate (I)</li>
-    <li>Exercise Enigma (I)</li>
-    <li>Oldpeak (I)</li></li>
-    <li>ST Slope (I)</li>
-    <li>Heart Disease(Y(1)/N(0) (D)</li>
+    <p>Medical Decalathon dataset Task2(Heart)</p>
   </ul>
 </div>
 <div>
   <h3>Functions to be implemented</h3>
   <ol>
-    <li>A fully functional machine learning model that is capable of making highly accurate predictions, not only for the dataset, but also for data being fed from external sources with same parameters.
+    <li>A fully functional deep learning model that is capable of making highly accurate predictions, not only for the dataset, but also for data being fed from external sources with same parameters.
     <li>A fully functional local site able to perform basic CRUD operations, as well as being able to display pre-existing data and add data to the dataset, asking for user confirmation before asking the user if they want their data to be included for help to others.
   </ol>
 </div>
